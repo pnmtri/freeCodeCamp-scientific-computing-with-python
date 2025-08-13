@@ -38,9 +38,8 @@ This project helps to estimate the chance (probability) of drawing a group of co
   
   How to organize clean and reusable code.
 
-Here below are pages of how I did the ideation step before starting coding
-<img width="1518" height="430" alt="Näyttökuva 2025-08-01 015808" src="https://github.com/user-attachments/assets/89cc2aad-4ef8-4d6c-9e61-a7ccba9084d1" />
 
 ## How to run
 ```bash
 python main.py
+
