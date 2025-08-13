@@ -14,9 +14,8 @@ Check the current balance in each category.
 
 Generate a text-based spending chart to visualize where money goes.
 
-<img width="1171" height="662" alt="image" src="https://github.com/user-attachments/assets/1374dc95-68fd-4ef0-8fcd-bca6b4bf1f40" />
-<img width="721" height="733" alt="image" src="https://github.com/user-attachments/assets/cb7274a4-3f86-49c7-8a6b-ff9092875046" />
 
 ## How to run
 ```bash
 python main.py
+
