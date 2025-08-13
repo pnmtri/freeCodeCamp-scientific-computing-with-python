@@ -25,9 +25,8 @@ print(arithmetic_arranger(["32 - 698", "1 - 3801", "45 + 43", "123 + 49", "988 +
 **Note**
 The function will return error messages for invalid input (too many problems, unsupported operators, long numbers, or non-digit characters).
 
-Here is how I planned up the coding, the ideation step, for the project before starting anything on computer:
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/b2950c32-a7a0-420d-9ed0-33e5681fee7d" />
 
 ## How to run
 ```bash
 python main.py
+
