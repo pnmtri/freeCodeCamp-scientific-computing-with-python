@@ -27,11 +27,9 @@ I also learned how important it is to keep the code clean, use good variable nam
 
 And last but not least, I now strongly got the point of manual and theoretical preparation before coding after this project. Although after preparing for hours, my code still got some errors at first. However, comparing with the previous projects with Python, I see myself improved a lot with ideation before coding. 
 
-Here below are pages of how I did the ideation step before starting coding.
-<img width="1697" height="793" alt="image" src="https://github.com/user-attachments/assets/893aaf44-7d68-4a8a-93a7-9bf0a24a05bc" />
-<img width="1697" height="796" alt="image" src="https://github.com/user-attachments/assets/f75ee4d1-61dc-4c06-b777-b04e4b14f087" />
 
 ## How to run
 ```bash
 python main.py
+
 
