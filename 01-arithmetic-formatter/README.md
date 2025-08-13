@@ -18,9 +18,6 @@ Aligns problems vertically with proper spacing
 Optional display of calculated answers (show_answers=True)
 
 **Example**
-python
-Copy
-Edit
 print(arithmetic_arranger(["32 - 698", "1 - 3801", "45 + 43", "123 + 49", "988 + 40"], True))
 **Note**
 The function will return error messages for invalid input (too many problems, unsupported operators, long numbers, or non-digit characters).
@@ -29,4 +26,5 @@ The function will return error messages for invalid input (too many problems, un
 ## How to run
 ```bash
 python main.py
+
 
